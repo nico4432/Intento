@@ -472,6 +472,7 @@ int main() {
 				printf("%c", matriz[j][i]);
 			}
 			printf("\n");
+
 		}  
 
 		
